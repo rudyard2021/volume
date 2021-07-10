@@ -1,0 +1,17 @@
+D:\Project\csharp\VolumeControl\VolumeControl\bin\Debug\VolumeControl.exe
+D:\Project\csharp\VolumeControl\VolumeControl\bin\Debug\VolumeControl.pdb
+D:\Project\csharp\VolumeControl\VolumeControl\obj\x86\Debug\VolumeControl.exe
+D:\Project\csharp\VolumeControl\VolumeControl\obj\x86\Debug\VolumeControl.pdb
+D:\Project\csharp\VolumeControl\VolumeControl\bin\Debug\Newtonsoft.Json.dll
+D:\Project\csharp\VolumeControl\VolumeControl\obj\x86\Debug\VolumeControl.csprojResolveAssemblyReference.cache
+D:\Project\csharp\CommandBot\CommandBot\bin\Debug\process\csharp\VolumeControl\VolumeControl\obj\x86\Debug\VolumeControl.exe
+D:\Project\csharp\CommandBot\CommandBot\bin\Debug\process\csharp\VolumeControl\VolumeControl\obj\x86\Debug\VolumeControl.pdb
+D:\Project\csharp\CommandBot\CommandBot\bin\Debug\process\csharp\VolumeControl\VolumeControl\bin\Debug\VolumeControl.exe
+D:\Project\csharp\CommandBot\CommandBot\bin\Debug\process\csharp\VolumeControl\VolumeControl\bin\Debug\VolumeControl.pdb
+D:\Project\csharp\CommandBot\CommandBot\bin\Debug\process\csharp\VolumeControl\VolumeControl\obj\x86\Debug\VolumeControl.csprojResolveAssemblyReference.cache
+E:\Project\csharp\volume\VolumeControl\obj\x86\Debug\VolumeControl.exe
+E:\Project\csharp\volume\VolumeControl\obj\x86\Debug\VolumeControl.pdb
+E:\Project\csharp\volume\VolumeControl\bin\Debug\VolumeControl.exe
+E:\Project\csharp\volume\VolumeControl\bin\Debug\VolumeControl.pdb
+E:\Project\csharp\volume\VolumeControl\bin\Debug\Newtonsoft.Json.dll
+E:\Project\csharp\volume\VolumeControl\obj\x86\Debug\VolumeControl.csprojResolveAssemblyReference.cache
